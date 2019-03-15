@@ -1,0 +1,17 @@
+{
+    "name": "pxt-kitronik-robotics-stepper",
+    "version": "0.0.1",
+    "description": "Blocks for driving the Kitronik All-in-one Robotics Board (Motors Only, No Servos)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "stepper.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
